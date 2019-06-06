@@ -1,5 +1,7 @@
 # Boilerplate for static site
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/poalrom/static-frontend-boilerplate.svg)](https://greenkeeper.io/)
+
 ## Features
 
 - No React/Angular/Vue/_other heavy framework_ 🏋️
